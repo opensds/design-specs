@@ -20,7 +20,7 @@ NA
 
 ##### Functional Requirements
 
-##### Buckets Operation
+##### Bucket Operations
 
 1. Create buckets or/and folders in various cloud providers. Ex: Aws, gcp, azure
 
